@@ -1,7 +1,14 @@
 package me.dio.santander.bankline2app.model;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Embeddable;
+import jakarta.persistence.Embedded;
+
+@Embeddable
 public class Conta {
+    @Column(name = "conta_numero")
     private Long numero;
+    @Column(name = "conta_saldo")
     private Double saldo;
 
     public Long getNumero() {
