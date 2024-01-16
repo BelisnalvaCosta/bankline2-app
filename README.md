@@ -1,7 +1,7 @@
 #bankline2-app
 
 Projeto bankline2-app(Conta: conta_numero, saldo); Correntista(id, cpf e nome); Movimentação(data e hora, descrição e valor); tipo de movimentações: Receita e Despesas, 
-Este projeto tem como objetivo criar um aplicativo online[^1]
+Este projeto tem como objetivo criar um aplicativo online[^1].
 
 Projeto Back-end, feito na IDE Intellij, linguagem Java.
 
