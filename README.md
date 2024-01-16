@@ -13,13 +13,14 @@ Projeto Back-end, feito na IDE Intellij, linguagem Java.
 -  Spring Boot
 -  Lombok
 -  PostgreSQL
--  Swagger
-
+-  Openapi
+  
+##  Swagger
 ###  Observação: para executar e visualizar o Get, Post, Put and Delet.
 1. Postman
 2. Heroku
 
-$  http://localhost:8080 ou
+$  localhost:8080 
 ```
 jdbc:postgresql://localhost:5432/banklineapi_db
 ```
