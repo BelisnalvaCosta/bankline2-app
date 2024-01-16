@@ -1,4 +1,4 @@
-#bankline2-app
+# bankline2-app
 
 Projeto bankline2-app(Conta: conta_numero, saldo); Correntista(id, cpf e nome); Movimentação(data e hora, descrição e valor); tipo de movimentações: Receita e Despesas, 
 Este projeto tem como objetivo criar um aplicativo online[^1].
@@ -24,4 +24,4 @@ $  http://localhost:8080 ou
 jdbc:postgresql://localhost:5432/banklineapi_db
 ```
 
-[^1]Este projeto foi feito com a orientação da Expert Gleyson Sampaio(DIO.me)
+[^1]: Este projeto foi feito com a orientação da Expert Gleyson Sampaio(DIO.me).
