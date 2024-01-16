@@ -20,7 +20,7 @@ Projeto Back-end, feito na IDE Intellij, linguagem Java.
 1. Postman
 2. Heroku
 
-$  localhost:8080 
+localhost:8080 
 ```
 jdbc:postgresql://localhost:5432/banklineapi_db
 ```
