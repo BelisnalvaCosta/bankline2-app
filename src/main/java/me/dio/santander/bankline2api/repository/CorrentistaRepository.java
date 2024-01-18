@@ -1,6 +1,6 @@
-package me.dio.santander.bankline2app.repository;
+package me.dio.santander.bankline2api.repository;
 
-import me.dio.santander.bankline2app.model.Correntista;
+import me.dio.santander.bankline2api.model.Correntista;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CorrentistaRepository extends JpaRepository<Correntista, Integer> {

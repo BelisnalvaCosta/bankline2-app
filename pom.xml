@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>me.dio.santander</groupId>
-	<artifactId>bankline2-app</artifactId>
+	<artifactId>bankline2-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bankline2-app</name>
+	<name>bankline2-api</name>
 	<description>API Rest do projeto Bankline API</description>
 	<properties>
 		<java.version>17</java.version>

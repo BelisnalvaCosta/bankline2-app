@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'me.dio.santander.bankline2-app' is invalid and this project uses 'me.dio.santander.bankline2app' instead.
+* The original package name 'me.dio.santander.bankline2-app' is invalid and this project uses 'me.dio.santander.bankline2api' instead.
 
 # Getting Started
 

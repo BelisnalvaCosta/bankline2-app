@@ -1,4 +1,4 @@
-package me.dio.santander.bankline2app.config;
+package me.dio.santander.bankline2api.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

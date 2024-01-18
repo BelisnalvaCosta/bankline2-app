@@ -1,6 +1,6 @@
-package me.dio.santander.bankline2app.repository;
+package me.dio.santander.bankline2api.repository;
 
-import me.dio.santander.bankline2app.model.Movimentacao;
+import me.dio.santander.bankline2api.model.Movimentacao;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

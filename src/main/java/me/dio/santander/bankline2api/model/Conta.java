@@ -1,8 +1,7 @@
-package me.dio.santander.bankline2app.model;
+package me.dio.santander.bankline2api.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;
-import jakarta.persistence.Embedded;
 
 @Embeddable
 public class Conta {

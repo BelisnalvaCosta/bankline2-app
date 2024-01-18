@@ -1,4 +1,4 @@
-package me.dio.santander.bankline2app.model;
+package me.dio.santander.bankline2api.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;

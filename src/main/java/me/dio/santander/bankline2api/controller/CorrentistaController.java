@@ -1,10 +1,9 @@
-package me.dio.santander.bankline2app.controller;
+package me.dio.santander.bankline2api.controller;
 
-import me.dio.santander.bankline2app.dto.NovoCorrentista;
-import me.dio.santander.bankline2app.model.Correntista;
-import me.dio.santander.bankline2app.repository.CorrentistaRepository;
-import me.dio.santander.bankline2app.service.CorrentistaService;
-import org.antlr.v4.runtime.tree.pattern.ParseTreePattern;
+import me.dio.santander.bankline2api.dto.NovoCorrentista;
+import me.dio.santander.bankline2api.model.Correntista;
+import me.dio.santander.bankline2api.repository.CorrentistaRepository;
+import me.dio.santander.bankline2api.service.CorrentistaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

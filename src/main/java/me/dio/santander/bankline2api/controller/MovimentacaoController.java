@@ -1,13 +1,9 @@
-package me.dio.santander.bankline2app.controller;
+package me.dio.santander.bankline2api.controller;
 
-import me.dio.santander.bankline2app.dto.NovaMovimentacao;
-import me.dio.santander.bankline2app.dto.NovoCorrentista;
-import me.dio.santander.bankline2app.model.Correntista;
-import me.dio.santander.bankline2app.model.Movimentacao;
-import me.dio.santander.bankline2app.repository.CorrentistaRepository;
-import me.dio.santander.bankline2app.repository.MovimentacaoRepository;
-import me.dio.santander.bankline2app.service.CorrentistaService;
-import me.dio.santander.bankline2app.service.MovimentacaoService;
+import me.dio.santander.bankline2api.dto.NovaMovimentacao;
+import me.dio.santander.bankline2api.model.Movimentacao;
+import me.dio.santander.bankline2api.repository.MovimentacaoRepository;
+import me.dio.santander.bankline2api.service.MovimentacaoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

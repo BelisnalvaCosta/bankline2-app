@@ -1,9 +1,9 @@
-package me.dio.santander.bankline2app.service;
+package me.dio.santander.bankline2api.service;
 
-import me.dio.santander.bankline2app.dto.NovoCorrentista;
-import me.dio.santander.bankline2app.model.Conta;
-import me.dio.santander.bankline2app.model.Correntista;
-import me.dio.santander.bankline2app.repository.CorrentistaRepository;
+import me.dio.santander.bankline2api.dto.NovoCorrentista;
+import me.dio.santander.bankline2api.model.Conta;
+import me.dio.santander.bankline2api.model.Correntista;
+import me.dio.santander.bankline2api.repository.CorrentistaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package me.dio.santander.bankline2app.dto;
+package me.dio.santander.bankline2api.dto;
 
-import me.dio.santander.bankline2app.model.MovimentacaoTipo;
+import me.dio.santander.bankline2api.model.MovimentacaoTipo;
 
 public class NovaMovimentacao {
     private String descricao;

@@ -1,4 +1,4 @@
-package me.dio.santander.bankline2app.model;
+package me.dio.santander.bankline2api.model;
 
 import jakarta.persistence.*;
 
